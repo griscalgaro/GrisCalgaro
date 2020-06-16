@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OTAs on Griselda Calgaro</title>
+    <link>/tags/otas/</link>
+    <description>Recent content in OTAs on Griselda Calgaro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <lastBuildDate>Thu, 02 Jan 2020 22:44:05 -0300</lastBuildDate>
+    
+	<atom:link href="/tags/otas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Capacitaciones</title>
+      <link>/projects/capacitaciones/</link>
+      <pubDate>Thu, 02 Jan 2020 22:44:05 -0300</pubDate>
+      
+      <guid>/projects/capacitaciones/</guid>
+      <description>Curso de Revenue Management: En el mes de Septiembre, se dictó el curso de “Introducción a la Maximización de Ingresos en el sector Hotelero” en la Universidad Nacional de Misiones como proyecto de extensión Universitaria. Esta propuesta, con dos jornadas intensivas contró con la presencia de emprendedores, estudiantes y muchos profesionales del sector. Un dato curioso ¡fue el primero en dictarse Posadas (Misiones)!
+Curso “Aproximaciones al Revenue Management”: En un ambiente distendido como lo es La Maquinita Co (un espacio de Coworking) iniciamos en Octubre 2019, junto con FiveStar Group, una propuesta de cursos introductorios al Revenue Management.</description>
+    </item>
+    
+  </channel>
+</rss>

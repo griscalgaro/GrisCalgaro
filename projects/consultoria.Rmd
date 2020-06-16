@@ -1,0 +1,21 @@
+---
+title: "Consultoría"
+author: "Griselda Calgaro"
+date: 2020-01-03T22:44:05-03:00
+featured: true
+image: "/projects/consultoria/image_consultoria.png"
+description: "Si de mejoras se trata, tanto en la gestión operativa como en la gestión estratégica contarás con ayuda para solucionar los imprevistos que se presenten."
+tags: ["Consultoria", "Gestion de Ingresos", "Distribucion Online", "Ventas"]
+---
+<br>
+<justify>
+**Gestión operativa**: Es recurrente que una buena estrategia falle por no estar alineada con la operativa del hotel. Para ello, capacitamos al personal de manera tal que la labor diaria sea mas sencilla. Alguno de los interrogantes que respnden a este pilar son: ¿Cómo mejorar la comunicación interna en la empresa? ¿Cómo generar procesos que mejoren la labor diaria? ¿Cómo evaluar el desempeño de mis recursos humanos?¿cómo mejorar el ambiente laboral?.  
+
+**Gestión estratégica**: ¿Qué hacemos y cómo lo hacemos? En principio, es necesario saber cuál es la situación actual del hotel y cómo han sido las ventas años anteriores. Seguidamente, definimos nuevos objetivos a través de una propuesta a medida, implementamos las nuevas estrategias y llevamos un control en detalles. Analizamos los resultados, elaboramos reportes específicos y re-definimos estrategias.
+</justify>
+<br><br>
+
+
+<p align="center"><img src='/projects/consultoria/image_consultoria_2.jpeg' width='90%' height=auto></p>
+
+<br>

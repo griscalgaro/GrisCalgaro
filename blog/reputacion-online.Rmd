@@ -1,0 +1,75 @@
+---
+title: "El proceso de decisión de compra: La reputación online"
+author: "Griselda Calgaro"
+date: 2020-03-22T01:45:14-03:00
+featured: true
+image: "/img/blog/reputacion-online/reputacion-online_1.png"
+description: "Muchas veces, creemos estar haciendo todo bien y aun así no logramos convertir noches. Quizás bajamos tarifas, pagamos más por posicionamiento, mejoramos nuestras fotos, abrimos cuentas en redes sociales, creamos promociones, etc…  hicimos todo lo que habíamos leído que hay que hacer ¡y no logramos vender!"
+tags: ["Reputación Online", "Revenue Management"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+<br>
+
+> Hoy veremos: La Reputación Online como variable en el proceso de decisión de compra. 
+
+Muchas veces, creemos estar haciendo todo bien y aun así no logramos convertir noches. Quizás bajamos tarifas, pagamos más por posicionamiento, mejoramos nuestras fotos, abrimos cuentas en redes sociales, creamos promociones, etc…  hicimos todo lo que habíamos leído que hay que hacer ¡y no logramos vender!
+
+Es por ello que preparé una **Serie de Post** donde te ayudaré a pensar cuál puede estar siendo uno de los puntos débiles que tienes en tu proceso de comercialización.
+
+### Empecemos :nerd_face:
+
+El proceso de compra se puede resumir en 5 etapas P. Kotler (2008).
+
+
+1. **Reconocimiento de la necesidad**: nuestro potencial cliente puede estar motivado por una necesidad inicial (interna)  o en el mejor de los casos, una necesidad moldeada por factores externos despierte un deseo.  ¡Gran trabajo del marketing! 
+2. **Búsqueda de información**: ¡Aquí comienza la guerra! El potencial cliente puede estar en un estado receptivo (receptando anuncios publicitarios) o de manera activa, buscando información de sus grupos de referencia o bien, realizando búsquedas Online. 
+3. **Evolución de Alternativas**: Realiza un balance de qué opciones se ajustan más a lo que espera (gran expectativa). 
+4. **Decisión de compra**: Según la valoración de las alternativas, el consumidor lleva a cabo la compra. 
+5. **Comportamiento Post compra**. Dependerá de la satisfacción (o insatisfacción) que le produzca el producto una vez comprado y usado; es decir, de si realmente tiene lo que esperaba. Si el producto está al nivel de sus expectativas
+ 
+<p align="center" width="50px" height="auto"> <img src='/img/blog/reputacion-online/reputacion-online_1.png' style='max-width: 85%'/></p>
+ 
+Ahora, toda esta introducción ¿para qué?  En principio porque hoy veremos las variables más importantes de la etapa Nº ·3. 
+¿Te has dado cuenta de lo complejo que es?  Alguien está comparando tu producto con otros para tomar una decisión. Los caminos de abordar este punto pueden ser diferentes, intentare ordenarlos para que no quede nada sin mencionar (en el caso que olvide describir algo importante, lo puedes dejar en los comentarios). :speech_balloon:
+
+
+Como en todos los ámbitos de la vida, debemos empezar por uno mismo.  **¿Cuánto conoces tu producto?** ¿Tienes cada detalle del mismo en mente? Si hoy te pregunto, cuáles son las diferencias entre la categoría Estándar y la Superior ¿me podrías convencer que compre la de mayor valor? ¿Es la de mayor valor la que necesito?  ¿Cuál es el motivo por el cual el adicional por persona es de USD 20? ¿Por qué la diferencia entre la triple Estándar y la triple Superior es de USD25?  ¿Por qué mi política de cancelación flexible es de 72hs? ¿Por qué mi producto lo comercializo por HotelDo y no incluí Hotelbeds en esa estrategia? ¿Cómo se compone? Si la mayoría de estas respuestas es “no sé”, ya tienes una nueva tarea pendiente. :wink:  
+
+
+Una vez que conozcamos nuestro producto en detalle, estamos preparados para compararnos con nuestra competencia. **¿Ya tienes un CompSet hecho?** Si la respuesta es No, ¡nuevamente te dejo una tarea pendiente! Si ya lo tienes, hoy vamos a enfocarnos en: La Reputación Online.La reputación Online, será una variable que aparece de manera repetitiva en el punto 3 y 4. Es inevitable la comparativa de reseñas  de tu hotel vs el Compset no se realice. ¡Y lo sabes! ¿Qué están diciendo los huéspedes de tu competencia? ¿Qué detalles resaltan? ¿La relación precio-calidad cómo ha sido percibida en los hoteles que son mis competidores?.
+
+
+En principio, te recomiendo tener un cuadro con la valoración de reseñas en cada canal de comercialización vs tu Compset, para poder evaluar de manera rápida donde puedes accionar ( ya sea para mejorar o para tomar ventajas).  
+Seguidamente, **no puedes tener NI UN SOLO comentario SIN RESPONDER**. La persona que nos evalúa está, no sólo dedicando su tiempo a expresarse, sino que además nos eligió. 
+
+**Si el comentario es positivo respira hondo y sonríe ¡Que has transformado el paso 5 en una ventaja competitiva** :fire:  
+
+Los comentarios positivos, hay que potenciarlos. Si resaltan que “el desayuno estuvo delicioso” tienes que poner énfasis en que “sin dudas, nuestro desayuno casero es lo que más atrae a nuestros huéspedes ¿Espero que hayas probado el brownie, sino quedará pendiente para tu próxima visita”. Es verdad que muchas veces nos dejan comentarios negativos por cuestiones que no son propias al hotel. Nunca falta huésped que dice: _“Todo muy lindo. Era lo que esperaba. El desayuno delicioso, pero llovió toda la semana”_ Puntuación: 7. **_Hay que saber discernir entre lo que podemos controlar y lo que no_**. 
+
+### ¿Qué sucede con los comentarios negativos? 
+
+:arrow_up_small: Míralos como una oportunidad de mejora. Un feedback honesto.  
+:arrow_up_small: Respóndelo con profesionalismo y calidez. La actividad turística se destaca por la hospitalidad y el servicio, nunca lo olvides.  
+:arrow_up_small: No te enojes con el huésped.  
+:arrow_up_small: No busques justificar por qué no has logrado superar las expectativas del cliente.  
+:arrow_up_small: Toma las medidas necesarias para que no vuelva a ocurrir en un futuro.  
+:arrow_up_small: Jamás “copies y pegues” una respuesta, intenta que sea única y personalizada.
+
+
+Desde una perspectiva del **Revenue Management**, los comentarios positivos no favorecen a una suba en la tarifa. Hay estudios que comprueban que ante comentarios positivos y un aumento en la tarifa, los comentarios negativos podrán aumentar. ¿Qué pasa con los comentarios negativos? Pues el escenario es aún peor, comentarios negativos y una baja de tarifa los comentarios negativos podrían no disminuir. Si tienes comentarios negativos y subes la tarifa, los comentarios negativos podrán aumentar.
+ 
+Para ir cerrando este post, es imprescindible que comprendas que la buena experiencia del huésped es hoy en dìa, un factor indispensable para las estrategias de venta y diferenciación. ¿Es el único? ¡Claro que no! Aunque es imposible negarlo que en muchas ocasiones, tiene más peso que las propias decisiones de ***pricing***.
+
+Hasta el siguiente Post!
+
+
+***Nota***: Si deseas mejorar tu reputación Online, no dudes en contactarte conmigo (juntos podemos evaluar cómo accionar y ser más competitivos).
+
+>Fuentes utilizadas:  
+•	Kotler, P y Armstrong, G. (2008). Fundamentos de Marketing. Octava Edición. Editorial Pearson Educación. México  
+•	Kotler, P et al. (2011) Marketing turístico.  Quinta edición. Editorial Pearson Educación. España. 
+
+<p align="center" width="50px" height="auto"> <img src='/img/blog/reputacion-online/reputacion-online_2.png' style='max-width: 65%'/></p>

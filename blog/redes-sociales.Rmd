@@ -1,0 +1,67 @@
+---
+title: "El proceso de decisión de compra: La redes sociales"
+author: "Griselda Calgaro"
+date: 2020-03-24T01:45:14-03:00
+featured: true
+image: "/img/blog/redes-sociales/redes-1.png"
+description: "Las redes sociales no son ni moda ni tendencia, sino que son parte de nuestra vida cotidiana y no podemos negar que se han convertido en una herramienta imprescindible en las estrategias de marketing. No sustituyen ninguna otra herramienta, simplemente la complementan."
+tags: ["Reputación Online", "Revenue Management","Redes Sociales", "Hoteleria"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+<br>
+
+Hoy veremos: Las redes sociales como variables en el proceso de decisión de compra. Las redes sociales no son ni moda ni tendencia, sino que son parte de nuestra vida cotidiana y no podemos negar que se han convertido en una herramienta imprescindible en las estrategias de marketing. No sustituyen ninguna otra herramienta, simplemente la complementan.  
+
+### ¿Estás presente en las redes sociales?  
+
+Si la respuesta es **No**, pues empezamos mal y antes de que salgas corriendo a crear cuentas innecesarias, lee es te post y estudia a fondo qué red social usarás para estar en contacto con tu cliente.  ***Si ya tiene presencia en redes sociales, veremos qué podemos hacer para mejorar nuestro engagement ^[El engagement tiene que ver con la interacción. De hecho, este se define como el nivel de interacción y compromiso que tienen los usuarios con las marcas en redes sociales. ]  y nos sirva como ventaja competitiva*** en el proceso de decisión de compra^[Puedes visitar mi otro post https://griscalgaro.github.io/blog/reputacion-online/ donde explico el proceso de decisión de compra.] 
+
+### Beneficios de estar en redes sociales:  
+
+:boom: Es un excelente canal de atención al cliente.  
+:boom: Son una herramienta de fidelización.  
+:boom: Es un canal que te amplía el mercado potencial de clientes.  
+:boom: Son una herramienta para obtener el feedback de tus productos y servicios.    
+:boom: Obtienes data que luego puedes utilizar.  
+:boom: Mejoran tu imagen de marca (branding).    
+:boom: Puedes conocer a tu cliente y segmentarlo.    
+:boom: Captar tráfico y dirigirlo hacia tu web.     
+:boom: Genera confianza ( Reputacion Online).    
+
+Si tu presencia en redes sociales está bien trabajada y potencias tu ***branding***^[Branding: es el manejo o gestión de la marca, en toda su dimensión completa y compleja. No es simplemente el diseño de un símbolo gráfico que la represente, sino la inclusión de esa marca gráfica dentro de una estrategia global de comunicación que constituye a esa marca y la establece como una experiencia para ser compartida. ]
+  , pues entonces no tienes nada de qué preocuparte y continua generando contenido y promoviendo vínculos con tus clientes.   
+
+### ¿Qué pasa si tengo presencia en redes sociales pero paso inadvertido?  
+En principio, te aconsejo que contrates un _community manager_ que haya trabajado en el mismo rubro ¡Nada mejor que conocer el campo de batalla! Si no tienes la posibilidad de invertir en ello, puedes dar los primeros pasos con los siguientes TIPS:   
+
+:point_right: ***Define tus objetivos*** ^[No olvides que deben ser “SMART” (Specific, Measurable, Attainable, Relevant, Time Based). Los objetivos SMART hacen referencia a las normas que deben seguir todos y cada uno de los objetivos que definas para cada canal online: que sea específico, medible, alcanzable, orientado a resultados y basado en tiempo.]   en cada red social. No es lo mismo Instagram que Facebook ni mucho menos Linkedin. Luego, responde la siguiente pregunta: ¿qué quiero conseguir en Instagam? ( por ejemplo).   
+:point_right: ***Hazte conocido y Gana Visibilidad*** : Aquí es donde se mezcla la empatía, el ingenio y el dinero. Tienes que crear contenidos y que tu público se vea identificado o atraído. Para iniciar, los sorteos suelen generarte un empujon en cuanto a visibilidad al igual que trabajar con _influencers_^[Un influencer es una persona que cuenta con cierta credibilidad sobre un tema concreto y que por su presencia e influencia en redes sociales puede llegar a convertirse en un prescriptor interesante para una marca].   
+:point_right: ***utiliza hashtags “#”*** : Tienes que asegurarte de estar donde todos estén. Si eres un hotel Boutique deberías tener cada post con #Botelboutique o hacerlo más especifico #Hotelboutiqueargentina. Puedes tener tu propio # que te identifique, como una identidad: #YosoyBoutique (es solo un ejemplo) o el nombre de tu hotel #nombredetuhotel. De esta manera, otras personas podrán encontrarte, tendrás visibilidad y lo verán aquellos que estén interesado en ello.  Por ejemplo en Twitter, si un mismo hashtag es utilizado por muchas personas en poco tiempo, este puede llegar a convertirse en tendencia.  
+:point_right: ***Responde estas preguntas y elabora tu estrategia***: ¿qué es lo que tu comunidad quiere ver/escuchar? ¿qué mensajes quiero transmitir?  ¿cómo lo voy a transmitir? ( tu marca, debe tener su propio estilo, su propia voz y no olvides que ser coherente es una forma de ganarse la confianza). ¿Cómo me voy a diferenciar de la competencia? Y finalmente. ¿Cada cuánto iré subiendo posteos? ¿Cuánto tiempo podré dedicar a las redes sociales? Y finalmente, ¿Cuál es mi presupuesto?.  
+:point_right: ***Se ordenado***: el trabajo en redes sociales no es “de vez en cuando” requiere de gran disciplina. Necesitarás un calendario para organizar el plan de acción en cada red social.  
+
+Seguramente te estarás preguntando ¿Qué red social es la que me conviene? Pues esto te lo comentaré en detalle en otro post (pero te adelanto que hoy no puedes estar fuera de :heavy_check_mark: Facebook y de :heavy_check_mark: Instagram). 
+
+>Conseguir ***presencia en redes sociales con éxito*** se construye a partir de una estrategia de Social Media a largo plazo y sobre los pilares de una rigurosa disciplina, enfoque en tus objetivos, contenido de valor, regularidad y perseverancia.  
+ 
+
+Espero que todo lo anterior te sirva para darte una idea de que es muy importante (pero muy importante) que estés presente en redes sociales. _Está comprobado que un cliente antes de realizar su compra (por ejemplo mediante una OTA) revisa si tienes sitio web y seguidamente, hace clic en los iconos de Redes Sociales que allí tienes_.  ¿Y sabes qué? Si estás haciendo todo bien en tu motor de reservas (por ejemplo, teniendo la mejor tarifa disponible) y estás haciendo todo bien en tus redes sociales, es muy probable que te elijan!  
+
+***¿Te has puesto a pensar lo mucho que nos gusta compartir nuestras experiencias?*** Somos generadores de contenidos innatos (prosumidores ^[Termino que surge de la unión de “productor” y “consumidor”. El prosumidor abandona la faceta pasiva para convertirse en generador de contenidos y creador de ideas y opiniones que ejercen influencia a la comunidad de compradores de una marca o un producto]  ). Y si tienes al cliente en tu hotel, lo más probable es que consigas que te genere contenido y nada mejor que estar al día para saber utilizar esos _leads_ como estrategias competitivas y “tentar” a otro cliente a que efectivamente, realice su compra. De esto se trata el proceso de decisión de compra, de entender dónde existen vetas, dónde “ajustar tuercas” y cómo empezar a pensar como nuestro cliente. 
+
+Hasta el siguiente Post! 
+
+
+>Fuentes utilizadas  
+Ghio, M (2009). Oxitobrands: marcas humanas para un mercado emocional. 1era. Edición. Ciudad Autónoma de Buenos Aires. Gräal.  
+https://rockcontent.com/es/blog/medir-el-engagement/.  
+http://www.analisisdemedios.com/branding/BrandingCorporativo.pdf.  
+https://www.iebschool.com/blog/prosumidor-marketing-digital/.  
+ 
+
+***¿Quieres estar en redes sociales y no sabes por dónde empezar? No dudes en ponerte en contacto conmigo que con mucho gusto podríamos trabajar en conjunto***
+
+<p align="center" width="50px" height="auto"> <img src='/img/blog/redes-sociales/redes-2.png' style='max-width: 95%'/></p>

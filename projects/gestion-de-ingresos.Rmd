@@ -1,0 +1,18 @@
+---
+title: "Gestión de Ingresos Online"
+author: "Griselda Calgaro"
+date: 2020-01-01T22:44:05-03:00
+featured: true
+image: "/projects/gestion/image_gestion.png"
+description: "El revenue management se ha convertido en un pilar dentro de las estrategias de comercialización para maximizar ingresos. Las estrategias que se plantean, permiten que tu hotel se destaque frente a otros."
+tags: ["Revenue Management", "Gestion Online", "Ventas", "Gestion de Ingresos"]
+---
+<br>
+<justify>
+El comportamiento de compra del consumidor es dinámico y de igual manera serán las estrategias de precios que se establecerán para satisfacer a la demanda. Resulta necesario gestionar de manera correcta el canal online, ya que siempre será el primer acercamiento del cliente al producto.
+</justify>
+<br><br>
+
+<p align="center"><img src='/projects/gestion/image_gestion.png' width='50%' height=auto></p>
+
+<br>

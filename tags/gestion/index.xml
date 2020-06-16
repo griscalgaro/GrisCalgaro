@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gestion on Griselda Calgaro</title>
+    <link>/tags/gestion/</link>
+    <description>Recent content in Gestion on Griselda Calgaro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <lastBuildDate>Sun, 09 Jun 2019 01:45:14 -0300</lastBuildDate>
+    
+	<atom:link href="/tags/gestion/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>La gestión de ingresos como pilar competitivo en la era digital</title>
+      <link>/blog/gestion-de-ingresos/</link>
+      <pubDate>Sun, 09 Jun 2019 01:45:14 -0300</pubDate>
+      
+      <guid>/blog/gestion-de-ingresos/</guid>
+      <description>¿Cómo ser competitivos en el mercado?
+El crecimiento de la oferta turística es un hecho en la provincia de Misiones donde parte de la población ha decidido invertir en alojamientos turísticos o brindar diferentes servicios vinculados a la actividad, a turistas que llegan a conocer la tierra colorada. Es así como Airbnb , Booking.com , Despegar.com , Expedia , Hotelbeds(B2B), Bestday, HomeAway (de Expedia Group), Almundo, Atrápalo, Avantrip entre muchos más, se han convertido en excelentes canales para comercializar noches.</description>
+    </item>
+    
+  </channel>
+</rss>

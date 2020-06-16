@@ -1,0 +1,90 @@
+---
+title: "El proceso de decisión de compra: Como ser competitivos en las OTAS"
+author: "Griselda Calgaro"
+date: 2020-04-25T01:45:14-03:00
+featured: true
+image: "/img/blog/como-ser-competitivos/file_show.jpg"
+description: "¿Quién ha dicho que hay que vender en la mayor cantidad de canales posibles? Cuando algun propietario o gerente me dice “tenemos que estar en todos lados”, siempre les respondo “No hay ningún problema, ¿Quién será el responsable de controlar el contenido?"
+tags: ["Reputación Online", "Revenue Management","Fotos", "Hoteleria"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+<br>
+
+¿Quién ha dicho que hay que vender en la mayor cantidad de canales posibles? Cuando algun propietario o gerente me dice *“tenemos que estar en todos lados”*, siempre les respondo *“No hay ningún problema, ¿Quién será el responsable de controlar el contenido?"*     
+
+**Calidad vs Cantidad**: Estuve a punto de empezar a escribir por qué debemos enfatizar nuestra gestión en la calidad, pero me contuve porque hay cuestiones que hacen a la calidad y están ahí, a la vista de nuestros potenciales clientes y pareciera que no nos damos cuenta cuan importante es (o nos damos cuenta, pero no tenemos tiempo) y ahora que atravesamos la mayor crisis en nuestro sector, hay tiempo para prepararnos para *"darlo todo"* como siempre digo :information_desk_person:. Arranquemos.  
+
+### Primero: Las fotos
+
+Vamos a empezar evaluando las fotos. ¿Qué fotos has seleccionado para que sean la primera imagen de tu potencial cliente? ¿Son fotos profesionales? ¿Se han cuidado los detalles?. Nunca debemos olvidar que vendemos un servicio, vendemos intangibles. Necesitamos que esas fotos, generen deseos. Si la persona está buscando descansar, tus fotos necesitan transmitir paz. ¿Sabías que las fotos son una forma de comunicar? Desde una perspectiva del marketing, la comunicación persigue tres objetivos: informar, persuadir y entretener. ¿Qué comunican tus imágenes?.  
+
+<p align="center" width="60px" height="auto"> <img src='/img/blog/como-ser-competitivos/file_show.png' style='max-width: 95%'/></p>
+
+Es importante que elijas tus primeras fotos con mucho cuidado, necesitas que la persona que esté mirando tu anuncio, de un clic y pueda conocerte aún más (No olvides que mirará tus fotos, tu tarifa y tu reputación, por lo cual estos tres ejes no hay que descuidar jamás). 
+
+> :nerd_face: Nota importante:  
+- En **Booking.com** las fotos deben ser de alta resolución: al menos 2048 x 1080 píxeles, y 4000 x 3000 píxeles preferiblemente (para que se pueda cargar,  el tamaño máximo de una foto debe ser de 19 MB).   
+- En **Expedia.com** las fotografías deben ser de al menos 2880 píxeles en su lado más largo. Las que no alcancen los 1000 píxeles en su lado más largo podrán ser rechazadas.  
+
+#### Consideraciones generales para no fracasar: 
+
+:star2: Utiliza una cámara digital (los smartphones más nuevos también tienen buenas cámaras).  
+:star2: Haz las fotos en formato horizontal, así lucirán mucho mejor.  
+:star2: Haz un mínimo de 20 fotos.  
+:star2: Haz fotos desde una altura de entre 100 y 160 cm. De esta manera, habrá coherencia entre las imágenes y ofrecerán una perspectiva natural.  
+:star2: Haz fotos desde las esquinas para aportar perspectiva y profundidad a las imágenes.  
+:star2: Intenta que en las fotos se vea lo máximo posible de cada espacio.  
+:star2: Toma fotografías de cada ambiente (habitaciones, baños, lobby, restaurant, spa, patio, piscina, parking, fachada, haz tomas de noche, si tienes la posibilidad de hacer tomas aéreas es un plus).  
+:star2: No te olvides de la iluminación, es clave.  
+:star2: Mira los detalles. El servicio se basa en los detalles y eso lo tienes que transmitir con tus fotos. Deben estar impecables.  
+
+
+#### Qué evitar:  
+
+:collision: Tu propio reflejo, de la cámara o de otras personas en espejos y ventanas.  
+:collision: Fotos con la tele encendida.  
+:collision: Fotos hechas de lentes ojo de pez.  
+:collision: Fotografías demasiado oscuras (subexpuestas) o muy claras (sobreexpuestas).  
+:collision: Fotos en blanco y negro (y cualquier filtro que quite la naturalidad de la fotografía).  
+:collision: Utilizar zoom digital.  
+:collision: Si tomas fotos de los huéspedes, intenta que no se vean las caras.  
+
+#### Orden: 
+
+¿Cómo ordeno mis fotos? El orden de las fotos, a mi parecer es completamente subjetivo, pon las fotos que más te gusten primero (pero que no sea la del toilette :grimacing:) y que realmente capten la atención. 
+
+> Recuerda que lo que no se exhibe, no se vende. Lo que  el potencial cliente ve, es lo que tendrá. 
+
+### Segundo: La reputación online
+
+He hablado bastante de este tema en otro post, te invito a que lo leas haciendo clic [aquí](https://griscalgaro.github.io/blog/reputacion-online/). 
+
+### Tercero: Las tarifas
+
+La cosa se está poniendo cada vez mejor, no se si sólo a mi me apasiona este punto o a vos también. Podría escribir horas sobre ello, pero me voy a limitar a dejarte los puntos mas importantes ya que tienes suficiente tarea con la revisión de tus fotografias en los portales Online. 
+
+#### Paridad Tarifaria:  
+Es importantísimo que mantengas una paridad en tarifas en los portales, porque no querrás que los algoritmos te posicionen debajo de tu competencia ni tampoco que los ejecutivos te estén llamando a cada instante :joy:  . 
+Recuerda que en tu motor de reserva, puedes tener la tarifa que quieras y la disparidad está mas que justificada (es tu propio canal de venta). 
+
+#### No utilices tarifas estáticas: 
+Si no aplicas revenue management en tu hotel, empieza diferenciando tarifas en función de tus días de mayor demanda. Si tienes un hotel vacacional, es probable que viernes y sábado sean tus días de mayor demanda. Esos días tendrías que tener una tarifa diferenciada. ¿Tienes tu set de competidores armado? Si lo tienes, monitorea si ha hecho cambios tarifarios y evalúa si puedes ajustar tu tarifa en función a ellos. Recuerda que no solo miras hoteles superiores, sino también aquellos hoteles que son inferiores. Crea siempre promociones en las OTAs. 
+
+#### Ten en cuenta los eventos importantes: 
+Tener tus tarifas ajustadas en función a eventos que puedan afectarte (congresos, feriados, casamientos, encuentros deportivos, recitales, etc) será un plus en tu estrategia. 
+
+#### Temporadas: 
+Se que sabes mejor que nadie cuando es temporada alta o baja tanto en tu destino como para tu hotel. Esto no siempre será igual, por lo tanto tienes que ser flexible y tener esos sentidos en alerta constante para no ser reactivo. Noche que no has vendido, noche que has perdido. 
+
+> *"Si buscas resultados distintos no hagas siempre lo mismo"*. Albert Einstein.
+
+¿Cómo nos posicionamos mejor en el Ranking de las OTAs? Existen varios factores que van a influir, algunos los hemos visto recién, otros están relacionados con comisiones mas elevadas por mejor posicionamiento, ofrecer descuentos en los programas de fidelización de cada portal, inventario siempre disponible, volumen de ventas, % de cancelaciones, y otros factores mas que podría explayarme en otro post. 
+
+
+:blush: Estamos llegando al final del post de esta semana. Sin embargo, hay algo fundamental que no puedes dejar pasar por alto cuando se trata de tus anuncios en las OTAs. ¿Sabes qué es? **el contenido relacionado con los servicios**. Constantemente debes chequearlos porque se agregan nuevos y es importante tenerlos al día.  
+
+
+Gracias por llegar hasta el final, hasta mi siguiente post. :raising_hand: 

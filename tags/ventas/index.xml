@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ventas on Griselda Calgaro</title>
+    <link>/tags/ventas/</link>
+    <description>Recent content in Ventas on Griselda Calgaro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <lastBuildDate>Fri, 03 Jan 2020 22:44:05 -0300</lastBuildDate>
+    
+	<atom:link href="/tags/ventas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Consultoría</title>
+      <link>/projects/consultoria/</link>
+      <pubDate>Fri, 03 Jan 2020 22:44:05 -0300</pubDate>
+      
+      <guid>/projects/consultoria/</guid>
+      <description>Gestión operativa: Es recurrente que una buena estrategia falle por no estar alineada con la operativa del hotel. Para ello, capacitamos al personal de manera tal que la labor diaria sea mas sencilla. Alguno de los interrogantes que respnden a este pilar son: ¿Cómo mejorar la comunicación interna en la empresa? ¿Cómo generar procesos que mejoren la labor diaria? ¿Cómo evaluar el desempeño de mis recursos humanos?¿cómo mejorar el ambiente laboral?</description>
+    </item>
+    
+    <item>
+      <title>Capacitaciones</title>
+      <link>/projects/capacitaciones/</link>
+      <pubDate>Thu, 02 Jan 2020 22:44:05 -0300</pubDate>
+      
+      <guid>/projects/capacitaciones/</guid>
+      <description>Curso de Revenue Management: En el mes de Septiembre, se dictó el curso de “Introducción a la Maximización de Ingresos en el sector Hotelero” en la Universidad Nacional de Misiones como proyecto de extensión Universitaria. Esta propuesta, con dos jornadas intensivas contró con la presencia de emprendedores, estudiantes y muchos profesionales del sector. Un dato curioso ¡fue el primero en dictarse Posadas (Misiones)!
+Curso “Aproximaciones al Revenue Management”: En un ambiente distendido como lo es La Maquinita Co (un espacio de Coworking) iniciamos en Octubre 2019, junto con FiveStar Group, una propuesta de cursos introductorios al Revenue Management.</description>
+    </item>
+    
+    <item>
+      <title>Gestión de Ingresos Online</title>
+      <link>/projects/gestion-de-ingresos/</link>
+      <pubDate>Wed, 01 Jan 2020 22:44:05 -0300</pubDate>
+      
+      <guid>/projects/gestion-de-ingresos/</guid>
+      <description>El comportamiento de compra del consumidor es dinámico y de igual manera serán las estrategias de precios que se establecerán para satisfacer a la demanda. Resulta necesario gestionar de manera correcta el canal online, ya que siempre será el primer acercamiento del cliente al producto.</description>
+    </item>
+    
+  </channel>
+</rss>
